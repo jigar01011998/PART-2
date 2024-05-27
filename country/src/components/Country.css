@@ -1,0 +1,48 @@
+.country-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .country-container h2 {
+    margin-top: 0;
+  }
+  
+  .country-info {
+    margin-bottom: 20px;
+  }
+  
+  .country-info p {
+    margin: 0;
+  }
+  
+  .country-info span {
+    font-weight: bold;
+  }
+  
+  .languages {
+    margin-bottom: 20px;
+  }
+  
+  .languages h3 {
+    margin-top: 0;
+  }
+  
+  .languages ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .languages ul li {
+    margin-bottom: 5px;
+  }
+  
+  .country-flag {
+    margin-bottom: 20px;
+  }
+  
+  .weather-container {
+    margin-top: 20px;
+  }
+  
